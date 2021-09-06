@@ -1,0 +1,7 @@
+﻿  ArrayDemoInC.cpp
+C:\MyProjects\ArrayDemoInC\ArrayDemoInC.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\MyProjects\ArrayDemoInC\ArrayDemoInC.cpp(26,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\MyProjects\ArrayDemoInC\ArrayDemoInC.cpp(26,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\MyProjects\ArrayDemoInC\ArrayDemoInC.cpp(26,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\MyProjects\ArrayDemoInC\ArrayDemoInC.cpp(26,11): message : this argument is used as a buffer size
+  ArrayDemoInC.vcxproj -> C:\MyProjects\ArrayDemoInC\Debug\ArrayDemoInC.exe
