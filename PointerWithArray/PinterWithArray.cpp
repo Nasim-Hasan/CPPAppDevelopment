@@ -8,13 +8,18 @@ void main()
 
 	p=a; //..Addressing the Base Value of Array..//
 
-	printf("The Values of the Array Are:\n");
-
 	for(i =0;i<5;i++)
 	{
+		//...Printing Addresses of the Array Elements
+		printf("The Adress of the Array Element Is:\n");
+		printf("%x\n",p);
+		p++;
+		
+		//..Printing Values of the Array Elements
+		printf("The Value of the Array Element Is:\n");
 		printf("%d\n",*p);
 		*p++;
-
+		
 	}
 
 }
