@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677078063 source:c:\myprojects\cppappdevelopment\fibonacciseries\main.c
+	<stdio.h>
+	<stdlib.h>
+
